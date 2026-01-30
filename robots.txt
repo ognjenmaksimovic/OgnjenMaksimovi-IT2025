@@ -1,0 +1,3 @@
+User-agent:*
+disallow:
+sitemap:https://github.com/ognjenmaksimovic/OgnjenMaksimovi-IT2025/blob/main/sitemap.xml
